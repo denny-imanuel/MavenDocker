@@ -2,9 +2,9 @@
 
 This project shows how to dockerize Java console application that was built using Maven configuration setup.
 
-## Requirements
+### Requirements
 
-1. IntelliJ IDE - you need to install WebStorm on your Windows machine
+1. IntelliJ IDE - you need to install IntelliJ on your Windows machine
 2. Docker Desktop - you need to install Docker Desktop for Windows
 3. Open JDK - you need to install Open JDK and set JAVA_HOME env
 4. Maven - you need to install Gradle and set M2_HOME env
