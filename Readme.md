@@ -1,6 +1,6 @@
 # Maven Docker
 
-This project shows how to dockerize Java Maven application
+This project shows how to dockerize Java console application that was built using Maven configuration setup.
 
 ## Requirements
 
